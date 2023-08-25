@@ -34,7 +34,7 @@ Militia#30; FootArcher#20; Spearmen#10; LightCavalry#1000; HeavyCavalry#120\
   We have used c++ to implement this problem
   
 ## To execute the code follow below steps in terminal:
-  1. run g++ ageOfWar.cpp
+  1. g++ ageOfWar.cpp
   2. ./a.out
 
 Note : We need g++ compiler to execute this code.
